@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/blineberry/Eleventy-POC/issues"
   },
-  "homepage": "https://github.com/blineberry/Eleventy-POC#readme"
+  "homepage": "https://github.com/blineberry/Eleventy-POC#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.8.3"
+  }
 }
