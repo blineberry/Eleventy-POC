@@ -1,0 +1,19 @@
+{
+  "name": "eleventy-poc",
+  "version": "1.0.0",
+  "description": "Testing out eleventy",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blineberry/Eleventy-POC.git"
+  },
+  "author": "Brent Lineberry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blineberry/Eleventy-POC/issues"
+  },
+  "homepage": "https://github.com/blineberry/Eleventy-POC#readme"
+}
