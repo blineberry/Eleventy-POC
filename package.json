@@ -18,5 +18,8 @@
   "homepage": "https://github.com/blineberry/Eleventy-POC#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.8.3"
+  },
+  "dependencies": {
+    "file-size": "^1.0.0"
   }
 }
